@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class LetterCounter {
+public class Module3Exercise1MadisonHauptmann {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

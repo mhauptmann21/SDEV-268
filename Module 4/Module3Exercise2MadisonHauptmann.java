@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class StringReverser {
+public class Module3Exercise2MadisonHauptmann {
     public static String reverse(char[] arr, int N) {
         Stack<Character> stack = new Stack<>();
 
